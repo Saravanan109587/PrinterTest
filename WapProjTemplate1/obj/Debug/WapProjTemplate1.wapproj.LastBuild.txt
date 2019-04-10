@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Printer\WapProjTemplate1\Images\LockScreenLogo.scale-200.png
+C:\Users\Admin\source\repos\Printer\WapProjTemplate1\Images\Square150x150Logo.scale-200.png
+C:\Users\Admin\source\repos\Printer\WapProjTemplate1\Images\Square44x44Logo.scale-200.png
+C:\Users\Admin\source\repos\Printer\WapProjTemplate1\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Admin\source\repos\Printer\WapProjTemplate1\Images\StoreLogo.png
+C:\Users\Admin\source\repos\Printer\WapProjTemplate1\Images\Wide310x150Logo.scale-200.png
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd
+C:\Users\Admin\source\repos\Printer\WapProjTemplate1\bin\AnyCPU\Debug\resources.pri
+C:\Users\Admin\source\repos\Printer\Printer\bin\Debug\Printer.exe
+C:\Users\Admin\source\repos\Printer\Printer\bin\Debug\Printer.exe.config
+C:\Users\Admin\source\repos\Printer\Printer\bin\Debug\Printer.pdb

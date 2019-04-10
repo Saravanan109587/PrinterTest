@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Printer\Printer\obj\Debug\Printer.Properties.Resources.resources
+C:\Users\Admin\source\repos\Printer\Printer\obj\Debug\Printer.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Printer\Printer\obj\Debug\Printer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Printer\Printer\bin\Debug\Printer.exe.config
+C:\Users\Admin\source\repos\Printer\Printer\bin\Debug\Printer.exe
+C:\Users\Admin\source\repos\Printer\Printer\bin\Debug\Printer.pdb
+C:\Users\Admin\source\repos\Printer\Printer\obj\Debug\Printer.exe
+C:\Users\Admin\source\repos\Printer\Printer\obj\Debug\Printer.pdb
+C:\Users\Admin\source\repos\Printer\Printer\obj\Debug\Printer.PrinterTest.resources
+C:\Users\Admin\source\repos\Printer\Printer\obj\Debug\Printer.csprojAssemblyReference.cache
